@@ -3,5 +3,10 @@
     <latestVersion>1.2</latestVersion>
     <latestVersionCode>3</latestVersionCode>
     <url>https://github.com/amitkhairnar44/go4foodadmin/releases/download/v1.3/app-debug.apk</url>
+    <releaseNotes>
+      - UI fixes
+      - Updater fixes
+      - Other bug fixes
+    </releaseNotes>
   </update>
 </AppUpdater>
