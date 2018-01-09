@@ -1,13 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.2</latestVersion>
-    <latestVersionCode>3</latestVersionCode>
+    <latestVersion>1.3</latestVersion>
+    <latestVersionCode>4</latestVersionCode>
     <url>https://github.com/amitkhairnar44/go4foodadmin/releases/download/v1.3/app-debug.apk</url>
     <releaseNotes>
-- UI fixes
-- Updater fixes
-- Bug fixes
-Released by TechFirst Studio
+- Fixed Notification fragment
+- Fixed Setting Activity
+- Fixed minor bugs
+- Fixed android runtime permissions
     </releaseNotes>
   </update>
 </AppUpdater>
