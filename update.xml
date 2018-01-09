@@ -1,12 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.4</latestVersion>
-    <latestVersionCode>4</latestVersionCode>
-    <url>https://github.com/amitkhairnar44/go4foodadmin/releases/download/v1.4/app-debug.apk</url>
+    <latestVersion>1.5</latestVersion>
+    <latestVersionCode>5</latestVersionCode>
+    <url>https://github.com/amitkhairnar44/go4foodadmin/releases/download/v1.5/app-debug.apk</url>
     <releaseNotes>
 * Fixed android runtime permissions
-* Fixed app version and version code
 * Added firm tag in AboutActivity.
+* Show correct app version
+* Fixed other minor bugs
     </releaseNotes>
   </update>
 </AppUpdater>
