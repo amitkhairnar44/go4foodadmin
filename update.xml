@@ -4,9 +4,9 @@
     <latestVersionCode>4</latestVersionCode>
     <url>https://github.com/amitkhairnar44/go4foodadmin/releases/download/v1.4/app-debug.apk</url>
     <releaseNotes>
-    - Fixed android runtime permissions
-    - Fixed app version and version code
-    - Added firm tag in AboutActivity.
+* Fixed android runtime permissions
+* Fixed app version and version code
+* Added firm tag in AboutActivity.
     </releaseNotes>
   </update>
 </AppUpdater>
