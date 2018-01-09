@@ -4,9 +4,10 @@
     <latestVersionCode>3</latestVersionCode>
     <url>https://github.com/amitkhairnar44/go4foodadmin/releases/download/v1.3/app-debug.apk</url>
     <releaseNotes>
-      - UI fixes
-      - Updater fixes
-      - Other bug fixes
+- UI fixes
+- Updater fixes
+- Bug fixes
+Released by TechFirst Studio
     </releaseNotes>
   </update>
 </AppUpdater>
